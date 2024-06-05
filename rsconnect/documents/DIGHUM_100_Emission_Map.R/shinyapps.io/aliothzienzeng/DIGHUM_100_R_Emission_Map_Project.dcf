@@ -1,0 +1,13 @@
+name: DIGHUM_100_R_Emission_Map_Project
+title: DIGHUM_100_R_Emission_Map_Project
+username: aliothzienzeng
+account: aliothzienzeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12132276
+bundleId: 8705469
+url: https://aliothzienzeng.shinyapps.io/DIGHUM_100_R_Emission_Map_Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DIGHUM_100.R
